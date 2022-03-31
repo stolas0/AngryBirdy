@@ -1,2 +1,2 @@
 # AngryBirdy
-A second study 2D game
+Second trial 2D game project
